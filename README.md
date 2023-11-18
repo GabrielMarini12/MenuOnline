@@ -3,7 +3,7 @@
 Projeto desenvolvido para hamburgaria, com pedidos através do site direcionado para o WhatsApp.
 
 1ª etapa foi feito a landing page apenas com html e css para construir o esqueleto e estilizar o site.
-Também foi utilizado p Fontawesome, que é um conjunto de ferramentas de fontes e ícones.
+Também foi utilizado o Fontawesome, que é um conjunto de ferramentas de fontes e ícones.
 
 2ª etapa foi realizar a parte do carrinho, que foi dividio em 3 etapas:
   - parte 1 onde o corrinho pode ser modificado ainda, como adicionar ou remover produtos
